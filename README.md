@@ -10,3 +10,4 @@ How do I approach a problem as a computer scientist?
 The first thing I do is decide what the client needs, or what the end objective is.  Next, I would provide options for the customer, ensuring that those options are legal and ethical. Depending on what solution is chosen, I would start creating the base of the software and then move on to specific functionality.
 What are my ethical responsibilities to the end user and the organization? 
 My specific ethical responsibilities would be to protect the data of the individual users and the data of the company. To attempt to create programs and algorithms that are without basis. And to ensure that the company I am crating the software for is intending to use that data in a legal manor. I will not work for a company that would use others data illegally.
+
